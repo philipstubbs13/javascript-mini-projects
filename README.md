@@ -1,2 +1,3 @@
-# javascript-mini-projects
-JavaScript Mini Projects
+# JavaScript Mini Projects
+
+* [Search Bar in JavaScript](./search-bar-javascript/README.md)
